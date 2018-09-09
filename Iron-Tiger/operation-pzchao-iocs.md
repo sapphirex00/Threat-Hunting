@@ -1,0 +1,35 @@
+## Operation PzChao IOCs
+
+##### Malicious Files Hashes
+[718f9ca7a38a15b0d34a29a0b8b50c88bea9d67501ca6e2ae96fbc79edecdb9d](https://www.virustotal.com/#/file/718f9ca7a38a15b0d34a29a0b8b50c88bea9d67501ca6e2ae96fbc79edecdb9d/detection)
+2b98d9c0d30d09e791ad4dc981a17fa3e48fda7f1dfd68fd037946531e2cf718
+[d26fb51be2d3db37fa37ba542365f616a1cecc3e4e0287e7a29a3a5a2dce7083](https://www.virustotal.com/#/file/d26fb51be2d3db37fa37ba542365f616a1cecc3e4e0287e7a29a3a5a2dce7083/detection)
+[d2591f4fe1c65e687c69cac007af27d24f656af5bc8eb8ff20064264fb71d56b](https://www.virustotal.com/#/file/d2591f4fe1c65e687c69cac007af27d24f656af5bc8eb8ff20064264fb71d56b/detection)
+[da4f90ad50df05899bbcb7e9359da4541f989c57602ad2705eef1d561c99cfc3](https://www.virustotal.com/#/file/da4f90ad50df05899bbcb7e9359da4541f989c57602ad2705eef1d561c99cfc3/detection)
+dca2e23324f7a740d431eef0083c0b795c63fb2f4ae4bc55bc236b12ea0510e2
+[d26fb51be2d3db37fa37ba542365f616a1cecc3e4e0287e7a29a3a5a2dce7083](https://www.virustotal.com/#/file/d26fb51be2d3db37fa37ba542365f616a1cecc3e4e0287e7a29a3a5a2dce7083/detection)
+[2234a0ecb268aa8a855b23ad0c12cf39d1a18768c857ff6b8cd7af5e2f694525](https://www.virustotal.com/#/file/2234a0ecb268aa8a855b23ad0c12cf39d1a18768c857ff6b8cd7af5e2f694525/detection)
+[fb602ff538f71c04b2c8271514b3923d72543ed92e717c046884f3eb1317e2af](https://www.virustotal.com/#/file/fb602ff538f71c04b2c8271514b3923d72543ed92e717c046884f3eb1317e2af/detection)
+97b69d8e0cf55708309c37d332137d10242a201c0dd93d6a513e5038dc139f57
+[19841507ccf88d717a09bbba06a36644f1a555d1a53a11a2dea384bfccb9749f](https://www.virustotal.com/#/file/19841507ccf88d717a09bbba06a36644f1a555d1a53a11a2dea384bfccb9749f/detection)
+[0ccc0fec930917707cf8573f4c5d0845197b95e300f8692757060910e50a1de6](https://www.virustotal.com/#/file/0ccc0fec930917707cf8573f4c5d0845197b95e300f8692757060910e50a1de6/detection)
+[698db26e6f87e19dae93034fb9e1543e8675135e6da85120de20ab6ebbe9f30b](https://www.virustotal.com/#/file/698db26e6f87e19dae93034fb9e1543e8675135e6da85120de20ab6ebbe9f30b/detection)
+[a1ea427062bc9c497ed0660845c7e395500bf3d7f2f64c2a3f1137437d8ab6c9](https://www.virustotal.com/#/file/a1ea427062bc9c497ed0660845c7e395500bf3d7f2f64c2a3f1137437d8ab6c9/detection)
+[d7c0d5f399cf3f6738373aa72a5624352ce9eec1d2420c2aa91f73c565b721fd](https://www.virustotal.com/#/file/d7c0d5f399cf3f6738373aa72a5624352ce9eec1d2420c2aa91f73c565b721fd/detection)
+5a28683ee05c11670e17639f4eb99609ac3d665c45d50746e5898d9efdfd4a83
+[ba2ffb1ff4003db3fdf3cf48b38b3ba6c447844b4399781cbb930fc9e11c23a4](https://www.virustotal.com/#/file/ba2ffb1ff4003db3fdf3cf48b38b3ba6c447844b4399781cbb930fc9e11c23a4/detection)
+[7b33a8c1184683f94598b4bb558f5050d5512b2cb66efa27d58322b97cf5569c](https://www.virustotal.com/#/file/7b33a8c1184683f94598b4bb558f5050d5512b2cb66efa27d58322b97cf5569c/detection)
+81141007975251abadaa4c055f79999c0e61fb95724bfa4f98a91ced00534ebb
+
+##### Network IOCs
+* down.pzchao.com
+* up.pzchao.com
+* dll.pzchao.com
+* pzchao.com
+* rat.pzchao.com
+* centuriosa.info
+* zll855.no-ip.info
+* zll855.gicp.ne
+
+
+###### Source:[Operation pzchao - Inside a highly specialized espionage infraestructure](https://download.bitdefender.com/resources/files/News/CaseStudies/study/185/Bitdefender-Business-2017-WhitePaper-PZCHAO-crea2452-en-EN-GenericUse.pdf)
