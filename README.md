@@ -1,3 +1,3 @@
 # Threat-Intel
-#### Personal compilations of threat intel information of APTs from whitepaper releases, documents and research. 
+#### Personal compilations of threat intel information of APTs from whitepaper releases, documents and researches. 
 IOCs, Docs, Files, databases...
