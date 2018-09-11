@@ -1,6 +1,6 @@
 # Seduploader IOCs    
 
-#### Most targeted countries: NATO institutions and members, Ministires of Defense in Ukraine, Turkey, South Korea, Argentina and Bangladesh, Embassies belonging to Algeria, Brazil, Colombia, Iraq, North Korea, Lebanon, United Arab Emirates...
+##### Most targeted countries: NATO institutions and members, Ministires of Defense in Ukraine, Turkey, South Korea, Argentina and Bangladesh, Embassies belonging to Algeria, Brazil, Colombia, Iraq, North Korea, Lebanon, United Arab Emirates...
 ## Maliciuous Files used for seduploader's deployment
 [76053b58643d0630b39d8c9d3080d7db5d017020](https://www.virustotal.com/es/file/50539deb509814d4f5c5fe98aedb6f49d5b2f4c495e5e086dac8556c2e47b8e8/analysis/)  
 [9b276a0f5fd824c3dff638c5c127567c65222230](https://www.virustotal.com/es/file/12572c2fc2b0298ffd4305ca532317dc8b97ddfd0a05671066fe594997ec38f5/analysis/)  
