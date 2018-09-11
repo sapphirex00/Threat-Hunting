@@ -1,6 +1,5 @@
 # Cozyduke IOCs    
 
-##### Most targeted countries: 
 
 ## Malicious files 
 
