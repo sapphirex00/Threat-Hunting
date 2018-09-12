@@ -29,7 +29,7 @@
 [cba24ba2d2a96356d7f1ce79b1ead173](https://www.virustotal.com/en/file/60f9867805c5b3b670a3c2554e1863f1681b4e10b0cdc2118b829358c879b78d/analysis/)  
 
 ### Ursu implants
-[9a2e7cd06dbbd91e787a88e75a219757](https://www.virustotal.com/en/file/ab0ab5573c71ce3803a9c766def6e1173243782c75bca7c2528fe549aa93e0b1/analysis/)  
+[9a2e7cd06dbbd91e787a88e75a219757](https://www.virustotal.com/en/file/ab0ab5573c71ce3803a9c766def6e1173243782c75bca7c2528fe549aa93e0b1/analysis/)   
 [22106b457632d4ff61ab9667508ba83b](https://www.virustotal.com/en/file/f97f2985ff599e073156e37cbd34024067680072ac18f9d2040c64eedbe38e4f/analysis/)  
 
 ### Zusy Implants
