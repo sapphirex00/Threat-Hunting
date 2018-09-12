@@ -1,3 +1,3 @@
-# Threat-Intel
-#### Personal compilations of threat intel information of APTs from whitepaper releases, documents and researches. 
+# Threat Hunting
+#### Personal compilation of threat intel of APT malware from whitepaper releases, documents and researches. 
 IOCs, Docs, Files, databases...
