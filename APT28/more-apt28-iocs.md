@@ -25,13 +25,13 @@
 [f41bbd08d89a7d4d396c287ed77685a0](https://www.virustotal.com/en/file/e1a3a012b332f0728e11f7bbb7429dece387a1244b3daaee6da6b4407c48caf7/analysis/)
 [504a054cd410fb378e11d9f703cfe23e](https://www.virustotal.com/en/file/758f0e25dfd5c0349187359bb5e7456f70fac6e98794490884e6645fdd89321d/analysis/)  
 
-## OSX Implants
+### OSX Implants
 [cba24ba2d2a96356d7f1ce79b1ead173](https://www.virustotal.com/en/file/60f9867805c5b3b670a3c2554e1863f1681b4e10b0cdc2118b829358c879b78d/analysis/)  
 
-## Ursu implants
+### Ursu implants
 [9a2e7cd06dbbd91e787a88e75a219757](https://www.virustotal.com/en/file/ab0ab5573c71ce3803a9c766def6e1173243782c75bca7c2528fe549aa93e0b1/analysis/)  
 [22106b457632d4ff61ab9667508ba83b](https://www.virustotal.com/en/file/f97f2985ff599e073156e37cbd34024067680072ac18f9d2040c64eedbe38e4f/analysis/)  
 
-## Zusy Implants
+### Zusy Implants
 [53a72931e52548f7add86acd05ceed2c](https://www.virustotal.com/en/file/688146426628260d32a6b4891d0900eab98c996e66018203d54270e2b76472b1/analysis/)  
 
