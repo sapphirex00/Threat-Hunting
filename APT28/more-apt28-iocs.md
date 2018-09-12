@@ -16,6 +16,7 @@
 [b8392185bc4986d7f456b54fe45463bd](https://www.virustotal.com/en/file/5ae9ad6d9bb2a25dc04c957ce0658b0aee7b1900af5f8b47f4d32cd4e7d29032/analysis/)  
 [509e106284949416793a8d1aa0da742f](https://www.virustotal.com/en/file/cf0d23c3c9199559db93a1ec824d2d01822a06eecf6037fe941e9718299198ea/analysis/)  
 [3adabf36f34ef2d6734e6fdcee842d30](https://www.virustotal.com/en/file/384c9a19dd6f0f73bee575e54801f9608883ae31db1b399a28b8cc5f7aa9a26c/analysis/)  
+[b50640a28a1d4f2acdce93adf2ea326c](https://www.virustotal.com/en/file/2b19497db8cb05cd3d22996efe5af8eac0f2ea51e80f606b7b8a79dfaa2f58e2/analysis/)
 
 ### Zebrozi 
 [d6be74c21afeffe2ab7293f72a495904](https://www.virustotal.com/en/file/58d0154e0da852bd97378c796eb81940af4eeb28ee22f55caca65ab100b0f310/analysis/)
