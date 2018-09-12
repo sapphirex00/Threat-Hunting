@@ -9,7 +9,12 @@
 [302277f8499305d24ada19e2f6d525a4](https://www.virustotal.com/en/file/e8b930be7d67ea666846cdbba50a5f46eaccc99ee695a44a4a38b7e150786801/analysis/)  
 [fe8f363a035fdbefcee4567bf406f514](https://www.virustotal.com/en/file/a37eda810ca92486bfb0e1f1b27adb7c9df57aafab686c000ae1d6ec5d6f6180/analysis/)  
 [6eb520d6bd40b4a435d59b0830f83401](https://www.virustotal.com/en/file/a5742651c3dab8d6ed6f49c2f9fb3ee3bea5cd01c3ec8e73ff0a6f400e32faeb/analysis/)  
-[5424cb7788de1d9a29d18e1efd55fcc0]([https://www.virustotal.com/en/file/2d11e8d81bf776d668355ed15a596193d4bb10a42289ddb3223c1227b042d854/analysis/)  
+[5424cb7788de1d9a29d18e1efd55fcc0]([https://www.virustotal.com/en/file/2d11e8d81bf776d668355ed15a596193d4bb10a42289ddb3223c1227b042d854/analysis/)
+[335565711db93cd02d948f472c51598be4d62d60f70f25a20449c07eae36c8c5](https://www.virustotal.com/en/file/335565711db93cd02d948f472c51598be4d62d60f70f25a20449c07eae36c8c5/analysis/)  
+
+
+### Razi implants
+[12e6642cf6413bdf5388bee663080fa299591b2ba023d069286f3be9647547c8](https://www.virustotal.com/en/file/12e6642cf6413bdf5388bee663080fa299591b2ba023d069286f3be9647547c8/analysis/)  
 
 
 ### Zekapab 
