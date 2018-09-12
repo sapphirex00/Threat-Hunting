@@ -11,6 +11,9 @@
 [6eb520d6bd40b4a435d59b0830f83401](https://www.virustotal.com/en/file/a5742651c3dab8d6ed6f49c2f9fb3ee3bea5cd01c3ec8e73ff0a6f400e32faeb/analysis/)  
 [5424cb7788de1d9a29d18e1efd55fcc0]([https://www.virustotal.com/en/file/2d11e8d81bf776d668355ed15a596193d4bb10a42289ddb3223c1227b042d854/analysis/)
 [335565711db93cd02d948f472c51598be4d62d60f70f25a20449c07eae36c8c5](https://www.virustotal.com/en/file/335565711db93cd02d948f472c51598be4d62d60f70f25a20449c07eae36c8c5/analysis/)  
+[0dc3d4365b6b79c828a506d30a978f97](https://www.virustotal.com/en/file/1628d33ce9a7a7134d7fb1873add3a355d7e054fb4ba17b21335a18151eed658/analysis/)  
+[e3399d4802f9e6d6d539e3ae57e7ea9a54610a7c4155a6541df8e94d67af086e](https://www.virustotal.com/en/file/e3399d4802f9e6d6d539e3ae57e7ea9a54610a7c4155a6541df8e94d67af086e/analysis/)  
+[335565711db93cd02d948f472c51598be4d62d60f70f25a20449c07eae36c8c5](https://www.virustotal.com/en/file/335565711db93cd02d948f472c51598be4d62d60f70f25a20449c07eae36c8c5/analysis/)  
 
 
 ### Razi implants
@@ -22,9 +25,12 @@
 [509e106284949416793a8d1aa0da742f](https://www.virustotal.com/en/file/cf0d23c3c9199559db93a1ec824d2d01822a06eecf6037fe941e9718299198ea/analysis/)  
 [3adabf36f34ef2d6734e6fdcee842d30](https://www.virustotal.com/en/file/384c9a19dd6f0f73bee575e54801f9608883ae31db1b399a28b8cc5f7aa9a26c/analysis/)  
 [b50640a28a1d4f2acdce93adf2ea326c](https://www.virustotal.com/en/file/2b19497db8cb05cd3d22996efe5af8eac0f2ea51e80f606b7b8a79dfaa2f58e2/analysis/)  
-
-### Zebrozi 
+[153f94f098581dffdfe3d5d702ed2369](https://www.virustotal.com/en/file/f5c28f2089c1ac3cdc9d1bc01297838f663dfb0f2a4a2686edb47cc64ea60bb4/analysis/)  
 [d6be74c21afeffe2ab7293f72a495904](https://www.virustotal.com/en/file/58d0154e0da852bd97378c796eb81940af4eeb28ee22f55caca65ab100b0f310/analysis/)  
+[be6f600e05d6d958a9f614fc415ecba1](https://www.virustotal.com/en/file/a6576282d17cca390e35306a423dcb5ac9276c28eaba63f74001757edc3688df/analysis/) 
+[dc40f11eb6815ca9adea0a3b8ce7262c](https://www.virustotal.com/en/file/87bffb0370c9e14ed5d01d6cc0747cb30a544a71345ea68ef235320378f582ef/analysis/)  
+[44d5d647016b04a095f3658260eaac72](https://www.virustotal.com/en/file/15486216ab9c8b474fe8a773fc46bb37a19c6af47d5bd50f5670cd9950a7207c/analysis/)  
+[c6e95fb89df8e84eb21b3ce6b8947ce2](https://www.virustotal.com/en/file/0320298eea0206b71d12f3a69730bbbec9768c5c323dfe131047f7ba4f4a8868/analysis/)  
 
 ### Header Dropper
 [f41bbd08d89a7d4d396c287ed77685a0](https://www.virustotal.com/en/file/e1a3a012b332f0728e11f7bbb7429dece387a1244b3daaee6da6b4407c48caf7/analysis/)  
