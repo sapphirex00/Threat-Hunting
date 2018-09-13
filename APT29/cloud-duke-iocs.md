@@ -29,4 +29,4 @@
 [ddf3ffa1cf1f1329491c9448db506078](https://www.virustotal.com/en/file/8b238b362177f07082753400f311d1c2d57a3938a36a776d64e60aa5129b644e/analysis/)  
 [0d1893e5f36ac575c47151cca9e5bb68](https://www.virustotal.com/en/file/2a36823323b857921d056c0161fc15d47f29b7513443346a0aeb537cbf437f0d/analysis/)  
 
-#### Source: the dukes: 7 years of russian cyberspionage  by F-Secure
+#### Source: the dukes: 7 years of russian cyberspionage  by F-Secure + research
