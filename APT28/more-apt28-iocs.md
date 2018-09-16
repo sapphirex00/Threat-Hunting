@@ -50,4 +50,4 @@
 ### Zusy Implants
 [53a72931e52548f7add86acd05ceed2c](https://www.virustotal.com/en/file/688146426628260d32a6b4891d0900eab98c996e66018203d54270e2b76472b1/analysis/)  
 
-#### source: research, whitepapers + thor apt scanner
+#### source: research, whitepapers + thor apt scanner + @DrunkBinary
