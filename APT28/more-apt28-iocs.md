@@ -46,7 +46,7 @@
 
 ### Ursu implants
 [9a2e7cd06dbbd91e787a88e75a219757](https://www.virustotal.com/en/file/ab0ab5573c71ce3803a9c766def6e1173243782c75bca7c2528fe549aa93e0b1/analysis/)   
-[22106b457632d4ff61ab9667508ba83b](https://www.virustotal.com/en/file/f97f2985ff599e073156e37cbd34024067680072ac18f9d2040c64eedbe38e4f/analysis/) 
+[22106b457632d4ff61ab9667508ba83b](https://www.virustotal.com/en/file/f97f2985ff599e073156e37cbd34024067680072ac18f9d2040c64eedbe38e4f/analysis/)  
 [4f5d499ea8210ee49c8aca44b427947c](https://www.virustotal.com/#/file/b9672f9d27fab5f4202da9e3c30fba0df5e0f7d46b44ecec1dac53023d47edff/detection)  
 
 
