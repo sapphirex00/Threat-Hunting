@@ -15,6 +15,7 @@
 [e3399d4802f9e6d6d539e3ae57e7ea9a54610a7c4155a6541df8e94d67af086e](https://www.virustotal.com/en/file/e3399d4802f9e6d6d539e3ae57e7ea9a54610a7c4155a6541df8e94d67af086e/analysis/)  
 [335565711db93cd02d948f472c51598be4d62d60f70f25a20449c07eae36c8c5](https://www.virustotal.com/en/file/335565711db93cd02d948f472c51598be4d62d60f70f25a20449c07eae36c8c5/analysis/)  
 [8c128980d4863aac09384ea5a2df4548](https://www.virustotal.com/#/file/f85e59ac7b168da0972227b9c6fd1e34e625a0746d10c5a08fb2c0518569b58e/detection)  
+[49650d8ed5f4257f0f9d461f1288d4c1](https://www.virustotal.com/#/file/e4db5405ac7ab517d43722e1ca8d653ea4a32802bc8a5410d032275eedc7b7ee/detection)  
 
 ### Symmi implants
 [b02a80d5dc03a88dc01c2b676bec866e](https://www.virustotal.com/#/file/1933ca999737790ba3c3cba7a158de9577f1823f0987ec5ee6ac0c037ef34b6c/detection)  
@@ -45,7 +46,9 @@
 
 ### Ursu implants
 [9a2e7cd06dbbd91e787a88e75a219757](https://www.virustotal.com/en/file/ab0ab5573c71ce3803a9c766def6e1173243782c75bca7c2528fe549aa93e0b1/analysis/)   
-[22106b457632d4ff61ab9667508ba83b](https://www.virustotal.com/en/file/f97f2985ff599e073156e37cbd34024067680072ac18f9d2040c64eedbe38e4f/analysis/)  
+[22106b457632d4ff61ab9667508ba83b](https://www.virustotal.com/en/file/f97f2985ff599e073156e37cbd34024067680072ac18f9d2040c64eedbe38e4f/analysis/) 
+[4f5d499ea8210ee49c8aca44b427947c](https://www.virustotal.com/#/file/b9672f9d27fab5f4202da9e3c30fba0df5e0f7d46b44ecec1dac53023d47edff/detection)  
+
 
 ### Zusy Implants
 [53a72931e52548f7add86acd05ceed2c](https://www.virustotal.com/en/file/688146426628260d32a6b4891d0900eab98c996e66018203d54270e2b76472b1/analysis/)  
