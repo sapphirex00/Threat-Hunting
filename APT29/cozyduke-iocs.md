@@ -3,6 +3,7 @@
 
 ## Malicious files 
 
+[e1e4af3b537b6eebd96ed22983f273de2eed628d](https://www.virustotal.com/en/file/778cffdbb7302e9980e7af113838b23ed16393d96accae6d830ae03844cd54d9/analysis/)  
 [75aeaee253b5c8ae701195e3b0f49308f3d1d932](https://www.virustotal.com/en/file/7fd72a36f7e0e6e0a8bc777fc9ed41e0a6d5526c98bc95a09e189531cf7e70d5/analysis/)  
 [446daabb7ac2b9f11dc1267fbd192628cc2bac19](https://www.virustotal.com/en/file/dc70d3046b59785b2b9b7091e26f2484ba7a488dba420a8a05be388a337c399e/analysis/)  
 [87668d14910c1e1bb8bbea0c6363f76e664dcd09](https://www.virustotal.com/en/file/30c69d91247f8a72a69e4d7c4bce3eafba40975e5890c23dc4dbe7c9a11afa73/analysis/)  
