@@ -44,8 +44,8 @@ c7617251d523f3bc4189d53df1985ca9
 
 ### Network IOCs
 
-* www.arshinmalalan[.]com/themes/v6/templates/css/in.php  
+* arshinmalalan[.]com/themes/v6/templates/css/in[.]php  
 * hxxp://homaxcompany[.]com/components/com_sitemap/ 
-* hxxp://www.hadilotfi[.]com/wp-content/themes/profile/  
+* hxxp://hadilotfi[.]com/wp-content/themes/profile/  
 
 #### Source: [The Epic Turla Operation](https://securelist.com/the-epic-turla-operation/65545/)
