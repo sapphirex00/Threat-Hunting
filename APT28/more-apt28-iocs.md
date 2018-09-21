@@ -16,6 +16,8 @@
 [335565711db93cd02d948f472c51598be4d62d60f70f25a20449c07eae36c8c5](https://www.virustotal.com/en/file/335565711db93cd02d948f472c51598be4d62d60f70f25a20449c07eae36c8c5/analysis/)  
 [8c128980d4863aac09384ea5a2df4548](https://www.virustotal.com/#/file/f85e59ac7b168da0972227b9c6fd1e34e625a0746d10c5a08fb2c0518569b58e/detection)  
 [49650d8ed5f4257f0f9d461f1288d4c1](https://www.virustotal.com/#/file/e4db5405ac7ab517d43722e1ca8d653ea4a32802bc8a5410d032275eedc7b7ee/detection)  
+[e4d06d828513c70f9282ed39c3f8a553](https://www.virustotal.com/en/file/cf54b6c3fd2ec599083cd93cee74dbee9000c5179dfbdefda0bb6679b7f79905/analysis/)  
+
 
 ### Symmi implants
 [b02a80d5dc03a88dc01c2b676bec866e](https://www.virustotal.com/#/file/1933ca999737790ba3c3cba7a158de9577f1823f0987ec5ee6ac0c037ef34b6c/detection)  
