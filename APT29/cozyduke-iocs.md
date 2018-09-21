@@ -33,6 +33,14 @@
 [669b7c98f0f697b91e95804dacdfe55fae3f0a85](https://www.virustotal.com/en/file/173091dbbc76736ebb99e425fc02b3e1d7e5bf2ff91cad01a003263ad00527fe/analysis/)  
 6b64ed0f4e39a1c320c7cbd342a93faed9f5df86  
 [7765a0869530c1a17b8fd339bbe55cc4c1bdba30](https://www.virustotal.com/en/file/89cd924e6bb24ea151ba653573c64f07b22802473ea94c63c2c94843172998d6/analysis/)  
+[52dc7f62d3d3d80b7d1dfb828f467d0d](https://www.virustotal.com/en/file/10ff15ca3b3e4f101a0d4f469d042e86a8f65ccbb31197d90332e173644e85db/analysis/)  
+[94484a441fdc11ba0a136b218a9f0c88](https://www.virustotal.com/en/file/faff84c9e965d0a39d6f60bd13dbcc6b051a0c9dc8ad5f5722a04ad0bc1c94fc/analysis/)  
+[f753278253d21c247ee47f9e29122af6](https://www.virustotal.com/en/file/6c5c5819e0d77bc844951d3cd34ce423a0837850ca520875f60678e06fc84f7e/analysis/)  
+[3ed1dc2e56e3007e7a9fa7fb2d30089c](https://www.virustotal.com/en/file/268cf1c1b4934aff51f163b0ae28ef538fd886e52552d71c063b9ebd590f6347/analysis/)  
+[0ec907fcfd524fed7248638472586884](https://www.virustotal.com/en/file/13f00aa23a9a6be14c28acc4c12b6c5b67393b28a5e25d9c3a55eaee2858cede/analysis/)  
+[ad566c874870f9e5990f0c1189237bb8](https://www.virustotal.com/en/file/952dfb2fcef9a024843970d110c17d4b02d4693586c71eb4b3398413e0acc009/analysis/)  
+[d3d93dd391fe179f93fa946a0ba285ad](https://www.virustotal.com/en/file/8babc29e843ae028c5bf89627eb20c6567076c5b29e17ae15d0977e213a39b80/analysis/)  
+[7d0237196cb382b1b8822a52b66bea6f](https://www.virustotal.com/en/file/fcf7921a0cc57b04bff4de895daafee21a79f47d317008187bbd51a35e0115ac/analysis/)  
 
 
 
@@ -56,4 +64,4 @@
 * 208.77.177.24
 
 
-#### Source: cozyduke malware analysis by F-Secure
+#### Source: cozyduke malware analysis by F-Secure + @BinaryDrunk
