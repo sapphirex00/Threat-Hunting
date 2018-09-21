@@ -25,4 +25,4 @@
 * 104.171.117.216
 * 141.255.160.52
 
-#### Soure: [Sednit-part3](https://www.welivesecurity.com/wp-content/uploads/2016/10/eset-sednit-part3.pdf)
+#### Source: [Sednit-part3](https://www.welivesecurity.com/wp-content/uploads/2016/10/eset-sednit-part3.pdf)
