@@ -23,12 +23,20 @@
 [d0db619a7a160949528d46d20fc0151bf9775c32](https://www.virustotal.com/es/file/e031299fa1381b40c660b8cd831bb861654f900a1e2952b1a76bedf140972a81/analysis/)  
 [e816ec78462b5925a1f3ef3cdb3cac6267222e72](https://www.virustotal.com/es/file/94c220653ea7421c60e3eafd753a9ae9d69b475d61230f2f403789d326309c24/analysis/)  
 [f1ee563d44e2b1020b7a556e080159f64f3fd699](https://www.virustotal.com/es/file/bebe0be0cf8349706b2feb789572e035955209d5bf5d5fea0e5d29a7fbfdc7c4/analysis/)  
+[46e2957e699fae6de1a212dd98ba4e2bb969497d](https://www.virustotal.com/es/file/b814fdbb7cfe6e5192fe1126835b903354d75bfb15a6c262ccc2caf13a8ce4b6/analysis/)  
+[c53930772beb2779d932655d6c3de5548810af3d](https://www.virustotal.com/es/file/a1c73ce193ffa5323aaef73fbabbc2a984e10900f09cf9fcb0cb11606a23c402/analysis/)  
+[046a8adc2ef0f68107e96babc59f41b6f0a57803](https://www.virustotal.com/es/file/001d65185910ae8cd9e7e2472745e593be62b98eae3f5f2266a29c37e56daa1d/analysis/)  
+
 
 ### Linux implants
 [7e33a52e53e85ddb1dc8dc300e6558735acf10ce](https://www.virustotal.com/es/file/dd8facad6c0626b6c94e1cc891698d4982782a5564aae696a218c940b7b8d084/analysis/)  
 [9444d2b29c6401bc7c2d14f071b11ec9014ae040](https://www.virustotal.com/es/file/8bca0031f3b691421cb15f9c6e71ce193355d2d8cf2b190438b6962761d0c6bb/analysis/)  
 [ecdda7aca5c805e5be6e0ab2017592439de7e32c](https://www.virustotal.com/es/file/fd8b2ea9a2e8a67e4cb3904b49c789d57ed9b1ce5bebfe54fe3d98214d6a0f61/analysis/)  
 [f080e509c988a9578862665b4fcf1e4bf8d77c3e](https://www.virustotal.com/es/file/02c7cf55fd5c5809ce2dce56085ba43795f2480423a4256537bfdfda0df85592/analysis/)  
+
+### OSX implants
+[fa695e88c87843ca0ba9fc04b176899ff90e9ac5](https://www.virustotal.com/es/file/86a588672837afdc1900ad9e78c7d0ae7a842bdd972dbdc5bdff2574a37f5acc/analysis/)  
+
 
 ## X-Agent Network IOCs
 #### C&C Domains
