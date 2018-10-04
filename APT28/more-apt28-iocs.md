@@ -27,6 +27,8 @@
 ### Razi implants
 [12e6642cf6413bdf5388bee663080fa299591b2ba023d069286f3be9647547c8](https://www.virustotal.com/en/file/12e6642cf6413bdf5388bee663080fa299591b2ba023d069286f3be9647547c8/analysis/)  
 
+### Computrace/LoJack
+[d70db6a6d660aae58ccfc688a2890391fd873bfb](https://www.virustotal.com/es/file/3f48dbbf86f29e01809550f4272a894ff4b09bd48b0637bd6745db84d2cec2b6/analysis/)  
 
 ### Zekapab 
 [b8392185bc4986d7f456b54fe45463bd](https://www.virustotal.com/en/file/5ae9ad6d9bb2a25dc04c957ce0658b0aee7b1900af5f8b47f4d32cd4e7d29032/analysis/)  
