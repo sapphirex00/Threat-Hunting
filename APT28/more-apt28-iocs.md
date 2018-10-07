@@ -60,7 +60,7 @@
 ### Zusy Implants
 [53a72931e52548f7add86acd05ceed2c](https://www.virustotal.com/en/file/688146426628260d32a6b4891d0900eab98c996e66018203d54270e2b76472b1/analysis/)  
 
-## Zebrocy
+### Zebrocy
 [913ac13ff245baeff843a99dc2cbc1ff5f8c025c](https://www.virustotal.com/es/file/a15a4e21fe3b06870d52f7383ef45e4ac0dde727b02b3d340f0ba6346b43add1/analysis/)  
 [b758c7775d9bcdc0473fc2e738b32f05b464b175](https://www.virustotal.com/es/file/2b19497db8cb05cd3d22996efe5af8eac0f2ea51e80f606b7b8a79dfaa2f58e2/analysis/)  
 [3e7dfe9a8d5955a825cb51cb6eec0cd07c569b41](https://www.virustotal.com/es/file/a6576282d17cca390e35306a423dcb5ac9276c28eaba63f74001757edc3688df/analysis/)  
