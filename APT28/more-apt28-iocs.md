@@ -30,6 +30,7 @@
 
 ### Computrace/LoJack
 [d70db6a6d660aae58ccfc688a2890391fd873bfb](https://www.virustotal.com/es/file/3f48dbbf86f29e01809550f4272a894ff4b09bd48b0637bd6745db84d2cec2b6/analysis/)  
+[595aff5212df3534fb8af6a587c6038e](https://www.virustotal.com/es/file/dcbfd12321fa7c4fa9a72486ced578fdc00dcee79e6d95aa481791f044a55af3/analysis/)  
 
 ### Zekapab 
 [b8392185bc4986d7f456b54fe45463bd](https://www.virustotal.com/en/file/5ae9ad6d9bb2a25dc04c957ce0658b0aee7b1900af5f8b47f4d32cd4e7d29032/analysis/)  
