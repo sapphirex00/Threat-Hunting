@@ -4,7 +4,7 @@
 
 
 
-## malicious files
+## Blackenergy implants
  
 [26b9816b3f9e2f350cc92ef4c30a097c6fec7798](https://www.virustotal.com/en/file/e791718c0141e3829608142fb0f0d35c9af270f78ae0b72fce2edd07a9684568/analysis/)  
 [bf9937489cb268f974d3527e877575b4fbb07cb0](https://www.virustotal.com/en/file/d841d9092239fc029b10da01c19868749b0f6bd757926ff04674658468495808/analysis/)  
@@ -20,7 +20,7 @@
 [8743c8994cc1e8219697394b5cb494efa7dad796](https://www.virustotal.com/en/file/2aade7381aa87f55b7d7a5284d22be5472fd8cd966d216fd4445ca3a8bbb3ff3/analysis/)  
 [285b3252a878d1c633ea988153bbc23c148dd630](https://www.virustotal.com/en/file/01425582aa5001342b985270a365fd92d909be011384247e81872bff586fa142/analysis/)  
 [4c50453c478e9ce70454717a1e23a7cc90bf1e0a](https://www.virustotal.com/en/file/d2544ef8fb6a937e2e6236ddc37b1ce20341de1253c12507db935ae4bd6888ca/analysis/)  
-
+[0fd6c923edc283fb034f12557bd7719d](https://www.virustotal.com/es/file/9e9a6f1d046e0f5da10aa0e18bba248df4f818d342ed359c35fdb000f1354819/analysis/)  
 
 
 ##### Source: "BlackEnergy & Quedagh: the convergence of crimeware and APT attacks" + research
