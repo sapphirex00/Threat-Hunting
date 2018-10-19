@@ -2,7 +2,7 @@
 
 #### All hashes are sha-1 format
 
-## Oceanlotus implants (trojans and droppers)
+### Oceanlotus implants (trojans and droppers)
 
 [fdcb35cd9cb8dc1474cbcdf1c9bb03200dcf3f18](https://www.virustotal.com/es/file/4ab2df974e5e563f611d7267916a00c18f819f5b8770ffcfadc5e1959047fb8e/analysis/)  
 [a40ee8ff313e59aa92d48592c494a4c3d81449af](https://www.virustotal.com/es/file/bdb83301a470d202480274df161638f83f8f26e7dda131a11b89a5a3d8259c73/analysis/)  
@@ -39,7 +39,7 @@ f96bcd875836da89800912de1e557891697c7cf4
 [01ffc3ee5c2c560d29aaa8ac3d17f0ea4f6c0c09](https://www.virustotal.com/#/file/9afd2ccb1e2c434d296a6fa54fa5425c827e4172947c05a7db226076996a3715/details)  
 [562aeced9f83657be218919d6f443485de8fae9e](https://www.virustotal.com/#/file/e19fc649fe55d73eff5b1e3f7180d777fbc5d481855f0b4e8eb0b78a25212353/details)  
 
-## OceanLotus Salgorea ( exes & dlls)
+### OceanLotus Salgorea ( exes & dlls)
 
 [dbc37930db9e8f001acf8f638c6940f0ddb857bc](https://www.virustotal.com/#/file/e6594d11244357537fa3ef5292cb52ccbd7c8f26a277f7003ade80964351878f/details)  
 [d0c2a65df5485b2d81675f1ffb2202a3df3905d1](https://www.virustotal.com/#/file/d3cf53d74868625d4ee00e367162798f829acf532bad69cf1b7ce959de0e072a/details)  
