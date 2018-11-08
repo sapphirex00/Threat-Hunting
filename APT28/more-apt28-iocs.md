@@ -30,7 +30,7 @@
 [12e6642cf6413bdf5388bee663080fa299591b2ba023d069286f3be9647547c8](https://www.virustotal.com/en/file/12e6642cf6413bdf5388bee663080fa299591b2ba023d069286f3be9647547c8/analysis/)  
 
 ### Computrace/LoJack
-[d70db6a6d660aae58ccfc688a2890391fd873bfb](https://www.virustotal.com/es/file/3f48dbbf86f29e01809550f4272a894ff4b09bd48b0637bd6745db84d2cec2b6/analysis/)  
+[10036063be45f92a9a743425fbf5abc7](https://www.virustotal.com/es/file/3f48dbbf86f29e01809550f4272a894ff4b09bd48b0637bd6745db84d2cec2b6/analysis/)  
 [595aff5212df3534fb8af6a587c6038e](https://www.virustotal.com/es/file/dcbfd12321fa7c4fa9a72486ced578fdc00dcee79e6d95aa481791f044a55af3/analysis/)  
 [89503b7935a05b1d26cb26ce3793a3fb](https://www.virustotal.com/en/file/6d626c7f661b8cc477569e8e89bfe578770fca332beefea1ee49c20def97226e/analysis/)  
 [cffcae5c5551b4b9489fec5d56269d84](https://www.virustotal.com/en/file/aa5b25c969234e5c9a8e3aa7aefb9444f2cc95247b5b52ef83bf4a68032980ae/analysis/)  
