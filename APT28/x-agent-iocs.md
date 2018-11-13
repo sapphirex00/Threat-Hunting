@@ -26,6 +26,9 @@
 [46e2957e699fae6de1a212dd98ba4e2bb969497d](https://www.virustotal.com/es/file/b814fdbb7cfe6e5192fe1126835b903354d75bfb15a6c262ccc2caf13a8ce4b6/analysis/)  
 [c53930772beb2779d932655d6c3de5548810af3d](https://www.virustotal.com/es/file/a1c73ce193ffa5323aaef73fbabbc2a984e10900f09cf9fcb0cb11606a23c402/analysis/)  
 [046a8adc2ef0f68107e96babc59f41b6f0a57803](https://www.virustotal.com/es/file/001d65185910ae8cd9e7e2472745e593be62b98eae3f5f2266a29c37e56daa1d/analysis/)  
+[e8e1fcf757fe06be13bead43eaa1338c](https://www.virustotal.com/en/file/dea3a99388e9c962de9ea1008ff35bc2dc66f67a911451e7b501183e360bb95e/analysis/)  
+[695d8a38438cf129438d5c0b32fe9be5](https://www.virustotal.com/en/file/a5b68575ac4fbe83c23ff991ad0d5389f51a2aef71ee3c2277985c68361cf1cc/analysis/)  
+   
 
 
 ### Linux implants
@@ -54,4 +57,3 @@
 * 89.32.40.4
 * 92.114.92.125
 * 93.115.38.125
-
