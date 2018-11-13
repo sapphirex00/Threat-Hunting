@@ -9,7 +9,7 @@
 [302277f8499305d24ada19e2f6d525a4](https://www.virustotal.com/en/file/e8b930be7d67ea666846cdbba50a5f46eaccc99ee695a44a4a38b7e150786801/analysis/)  
 [fe8f363a035fdbefcee4567bf406f514](https://www.virustotal.com/en/file/a37eda810ca92486bfb0e1f1b27adb7c9df57aafab686c000ae1d6ec5d6f6180/analysis/)  
 [6eb520d6bd40b4a435d59b0830f83401](https://www.virustotal.com/en/file/a5742651c3dab8d6ed6f49c2f9fb3ee3bea5cd01c3ec8e73ff0a6f400e32faeb/analysis/)  
-[5424cb7788de1d9a29d18e1efd55fcc0]([https://www.virustotal.com/en/file/2d11e8d81bf776d668355ed15a596193d4bb10a42289ddb3223c1227b042d854/analysis/)  
+[5424cb7788de1d9a29d18e1efd55fcc0](https://www.virustotal.com/en/file/2d11e8d81bf776d668355ed15a596193d4bb10a42289ddb3223c1227b042d854/analysis/)  
 [335565711db93cd02d948f472c51598be4d62d60f70f25a20449c07eae36c8c5](https://www.virustotal.com/en/file/335565711db93cd02d948f472c51598be4d62d60f70f25a20449c07eae36c8c5/analysis/)  
 [0dc3d4365b6b79c828a506d30a978f97](https://www.virustotal.com/en/file/1628d33ce9a7a7134d7fb1873add3a355d7e054fb4ba17b21335a18151eed658/analysis/)  
 [e3399d4802f9e6d6d539e3ae57e7ea9a54610a7c4155a6541df8e94d67af086e](https://www.virustotal.com/en/file/e3399d4802f9e6d6d539e3ae57e7ea9a54610a7c4155a6541df8e94d67af086e/analysis/)  
@@ -47,6 +47,8 @@
 [44d5d647016b04a095f3658260eaac72](https://www.virustotal.com/en/file/15486216ab9c8b474fe8a773fc46bb37a19c6af47d5bd50f5670cd9950a7207c/analysis/)     
 [c6e95fb89df8e84eb21b3ce6b8947ce2](https://www.virustotal.com/en/file/0320298eea0206b71d12f3a69730bbbec9768c5c323dfe131047f7ba4f4a8868/analysis/)    
 [331454640fe386cd1a084709b4516ac4](https://www.virustotal.com/es/file/5223a45d8b08eb14e87a87edaa4b71593b4f9d2bdb6de1a5b6f3e77869eeca8a/analysis/)  
+[dbf9580947e52ab6421bd18eb0265167](https://www.virustotal.com/#/file/57145990fc1a301f95a9041ba2654d6634a155a70fbeb050fe76920602dc52ba/detection)  
+
 
 ### Header Dropper
 [f41bbd08d89a7d4d396c287ed77685a0](https://www.virustotal.com/en/file/e1a3a012b332f0728e11f7bbb7429dece387a1244b3daaee6da6b4407c48caf7/analysis/)  
