@@ -69,13 +69,13 @@
 ### Zebrocy binaries and files
 [913ac13ff245baeff843a99dc2cbc1ff5f8c025c](https://www.virustotal.com/es/file/a15a4e21fe3b06870d52f7383ef45e4ac0dde727b02b3d340f0ba6346b43add1/analysis/)  
 [b758c7775d9bcdc0473fc2e738b32f05b464b175](https://www.virustotal.com/es/file/2b19497db8cb05cd3d22996efe5af8eac0f2ea51e80f606b7b8a79dfaa2f58e2/analysis/)  
-[3e7dfe9a8d5955a825cb51cb6eec0cd07c569b41](https://www.virustotal.com/es/file/a6576282d17cca390e35306a423dcb5ac9276c28eaba63f74001757edc3688df/analysis/)  
-[7768fd2812ceff05db8f969a7bed1de5615bfc5a]  
-[da70c54a8b9fd236793bb2ab3f8a50e6cd37e2df]  
-[a225d457c3396e647ffc710cd1edd4c74dc57152]  
-[a659a765536d2099ecbde988d6763028ff92752e]  
-[20954fe36388ae8b1174424c8e4996ea2689f747]  
-[e0d8829d2e76e9bb02e3b375981181ae02462c43]  
+[3e7dfe9a8d5955a825cb51cb6eec0cd07c569b41](https://www.virustotal.com/es/file/a6576282d17cca390e35306a423dcb5ac9276c28eaba63f74001757edc3688df/analysis/)
+7768fd2812ceff05db8f969a7bed1de5615bfc5a  
+da70c54a8b9fd236793bb2ab3f8a50e6cd37e2df  
+a225d457c3396e647ffc710cd1edd4c74dc57152  
+a659a765536d2099ecbde988d6763028ff92752e  
+20954fe36388ae8b1174424c8e4996ea2689f747  
+e0d8829d2e76e9bb02e3b375981181ae02462c43  
 
 ### Zebrocy emails
 * carl.dolzhek17@post.cz  
