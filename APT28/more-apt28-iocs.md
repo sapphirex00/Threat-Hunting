@@ -66,10 +66,30 @@
 ### Zusy Implants
 [53a72931e52548f7add86acd05ceed2c](https://www.virustotal.com/en/file/688146426628260d32a6b4891d0900eab98c996e66018203d54270e2b76472b1/analysis/)  
 
-### Zebrocy
+### Zebrocy binaries and files
 [913ac13ff245baeff843a99dc2cbc1ff5f8c025c](https://www.virustotal.com/es/file/a15a4e21fe3b06870d52f7383ef45e4ac0dde727b02b3d340f0ba6346b43add1/analysis/)  
 [b758c7775d9bcdc0473fc2e738b32f05b464b175](https://www.virustotal.com/es/file/2b19497db8cb05cd3d22996efe5af8eac0f2ea51e80f606b7b8a79dfaa2f58e2/analysis/)  
 [3e7dfe9a8d5955a825cb51cb6eec0cd07c569b41](https://www.virustotal.com/es/file/a6576282d17cca390e35306a423dcb5ac9276c28eaba63f74001757edc3688df/analysis/)  
+[7768fd2812ceff05db8f969a7bed1de5615bfc5a]  
+[da70c54a8b9fd236793bb2ab3f8a50e6cd37e2df]  
+[a225d457c3396e647ffc710cd1edd4c74dc57152]  
+[a659a765536d2099ecbde988d6763028ff92752e]  
+[20954fe36388ae8b1174424c8e4996ea2689f747]  
+[e0d8829d2e76e9bb02e3b375981181ae02462c43]  
+
+### Zebrocy emails
+* carl.dolzhek17@post.cz  
+* shinina.lezh@post.cz  
+* P0tr4h4s7a@post.cz  
+* carl.dolzhek17@post.cz  
+* sym777.g@post.cz  
+* kae.mezhnosh@post.cz  
+* tomasso25@ambcomission.com  
+* kevin30@ambcomission.com  
+* salah444@ambcomission.com  
+* karakos3232@seznam.cz  
+* rishit333@ambcomission.com  
+* antony.miloshevich128@seznam.cz  
 
 
-#### source: research, whitepapers + thor apt scanner + @DrunkBinary + [NCSC_APT28](https://www.ncsc.gov.uk/content/files/protected_files/article_files/NCSC_APT28_Advisory.pdf)
+#### source: research, whitepapers + thor apt scanner + @DrunkBinary + [NCSC_APT28](https://www.ncsc.gov.uk/content/files/protected_files/article_files/NCSC_APT28_Advisory.pdf) + [Sednit: What's going on with zebrocy](https://www.welivesecurity.com/2018/11/20/sednit-whats-going-zebrocy/)
