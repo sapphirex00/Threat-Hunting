@@ -98,7 +98,10 @@ e0d8829d2e76e9bb02e3b375981181ae02462c43
 [f642d42ca0a1144e7c20fea537c8f4e8](https://www.virustotal.com/#/file/c4525aca78aa3a32e037c3a3a4f3a9158274d71979638c009917d4b050fc9fa8/detection)  
 [e49728cee1fdbbb957f657361fba3c9f](https://www.virustotal.com/#/file/b48b3d46ebfa6af8a25c007f77e6ed3c32fe4c6478311b8b0c7d6f4f8c82de76/detection)  
 [602d2901d55c2720f955503456ac2f68](https://www.virustotal.com/#/file/93680d34d798a22c618c96dec724517829ec3aad71215213a2dcb1eb190ff9fa/detection)  
-
+[ea5722ed66bd75871e24f7f88c5133aa](https://www.virustotal.com/#/file/c91843a69dcf3fdad0dac1b2f0139d1bb072787a1cfcf7b6e34a96bc3c081d65/detection)  
+[6fc45c0194e10b3cd5117200185e3d74](https://www.virustotal.com/#/file/86bb3b00bcd4878b081e4e4f126bba321b81a17e544d54377a0f590f95209e46/detection)  
+[ccd2e208c308b56acb5fb86dd029c034](https://www.virustotal.com/#/file/c20e5d56b35992fe74e92aebb09c40a9ec4f3d9b3c2a01efbe761fa7921dd97f/detection)  
+[2f8a8c3d9cb4c8b4de7a6d45c799b2f1](https://www.virustotal.com/#/file/074a5836c5973bb53ab02c2bad66a4743b65c20fd6bf602cfaf09219f32d2426/detection)  
 
 
 ### Zebrocy emails
@@ -114,6 +117,18 @@ e0d8829d2e76e9bb02e3b375981181ae02462c43
 * karakos3232@seznam.cz  
 * rishit333@ambcomission.com  
 * antony.miloshevich128@seznam.cz  
+
+### Zebrocy network IOCs
+* http://185.203.118.198/documents/Note_template.dotm
+* http://185.203.118.198/en_action_device/center_correct_customer/drivers-i7-x86.php?tbm=C4BA3647
+
+185.203.118.198 OPTIONS /documents/             HTTP/1.1    Microsoft Office Protocol Discovery
+185.203.118.198 OPTIONS /               HTTP/1.1    Microsoft-WebDAV-MiniRedir/6.1.7601
+185.203.118.198 GET /documents/Note_template.dotm   HTTP/1.1    Mozilla/4.0
+185.203.118.198 HEAD /documents/Note_template.dotm  HTTP/1.1    Microsoft Office Existence Discovery
+185.203.118.198 POST /en_action_device/center_correct_customer/drivers-i7-x86.php?tbm=AC38D1C7 
+
+* [Source](https://pastebin.com/sXcERsQd)
 
 
 #### source: research, whitepapers + thor apt scanner + @DrunkBinary + [NCSC_APT28](https://www.ncsc.gov.uk/content/files/protected_files/article_files/NCSC_APT28_Advisory.pdf) + [Sednit: What's going on with zebrocy](https://www.welivesecurity.com/2018/11/20/sednit-whats-going-zebrocy/)
