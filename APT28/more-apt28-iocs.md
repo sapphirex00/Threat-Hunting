@@ -44,6 +44,8 @@
 [595aff5212df3534fb8af6a587c6038e](https://www.virustotal.com/es/file/dcbfd12321fa7c4fa9a72486ced578fdc00dcee79e6d95aa481791f044a55af3/analysis/)  
 [89503b7935a05b1d26cb26ce3793a3fb](https://www.virustotal.com/en/file/6d626c7f661b8cc477569e8e89bfe578770fca332beefea1ee49c20def97226e/analysis/)  
 [cffcae5c5551b4b9489fec5d56269d84](https://www.virustotal.com/en/file/aa5b25c969234e5c9a8e3aa7aefb9444f2cc95247b5b52ef83bf4a68032980ae/analysis/)  
+[89503b7935a05b1d26cb26ce3793a3fb](https://www.virustotal.com/#/file/dea3a99388e9c962de9ea1008ff35bc2dc66f67a911451e7b501183e360bb95e/detection)  
+
 
 ### Zekapab 
 [b8392185bc4986d7f456b54fe45463bd](https://www.virustotal.com/en/file/5ae9ad6d9bb2a25dc04c957ce0658b0aee7b1900af5f8b47f4d32cd4e7d29032/analysis/)  
@@ -61,7 +63,11 @@
 [ea553c3de3fffbfa047e8e0eb2557b8b](https://www.virustotal.com/#/file/e05de3e4a03369192856a167f2865eab3062a102b23bfdde5c0f622b39cd159a/detection)  
 [3eaf97b9c6b44f0447f2bd1c7acb8c96](https://www.virustotal.com/#/file/65de07fc6b821d9fd3497cfa64212df2d39935dd515a86eda80d08086b183a3f/detection)  
 [9a7d82ba55216defc2d4131b6c453f02](https://www.virustotal.com/#/file/8d10fd18de90829eccc33e79b92987bc33999403a1f7e2766903d21d38a247a9/detection)  
-[]
+[31654a4e1dcd4de3ba5585f8f32d4999](https://www.virustotal.com/es/file/6d626c7f661b8cc477569e8e89bfe578770fca332beefea1ee49c20def97226e/analysis/)  
+[18b96752b4ce2a7b4eda33120ee164bd](https://www.virustotal.com/es/file/6d626c7f661b8cc477569e8e89bfe578770fca332beefea1ee49c20def97226e/analysis/)  
+[826077593452b072301c2cca78b41afd](https://www.virustotal.com/es/file/ef0960880479f4faf827bfc6b231268f3a67ffbcb6d8f0affd6eb092873d5ee8/analysis/)  
+[97fe16272bb7eb154de62f3b068627fb](https://www.virustotal.com/es/file/523bce4195612d07d62f556204ba76a742beac76400a8de88b0395c7d0562cca/analysis/)
+
 
 ### Header Dropper
 [f41bbd08d89a7d4d396c287ed77685a0](https://www.virustotal.com/en/file/e1a3a012b332f0728e11f7bbb7429dece387a1244b3daaee6da6b4407c48caf7/analysis/)  
