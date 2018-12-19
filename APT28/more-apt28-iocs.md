@@ -20,7 +20,10 @@
 [cfed9ce6e705e40be5595c42295da503](https://www.virustotal.com/en/file/6c10c6480ab6539bfcea2eafa0b7984b41d57022df137614bda8006ee401db12/analysis/)  
 [c18ae198dbcb5bebc88f6fbd856f8cc0](https://www.virustotal.com/es/file/a8f2cdaee06ac78758f6e84c19491621c9c0653b1802236129cd9a8aa3c75728/analysis/)  
 [deb03c602b4e5b0835979cd47d8c5fcf](https://www.virustotal.com/es/file/4bcde28262922d221914a2433075c93a0fdce5f5c07e02f3fb0c23e137df934f/analysis/)  
-
+[2318c0713df3404ccb7be4d1923621a3](https://www.virustotal.com/#/file/346e5dc097b8653842b5b4acfad21e223b7fca976fb82b8c10d9fa4f3747dfa0/detection)  
+[602d2901d55c2720f955503456ac2f68](https://www.virustotal.com/#/file/93680d34d798a22c618c96dec724517829ec3aad71215213a2dcb1eb190ff9fa/detection)  
+[1aedaa67e7613594c135177f2973e2c7](https://www.virustotal.com/#/file/cde4d79cb8e876a9c93730e5811ab8acca695fe4980d49bc0967cecf62a25510/detection)  
+[ec889f025271994a143fecd95ba2a5b3](https://www.virustotal.com/#/file/47cc9708cff86676c45ddd3823eafc0fddedbdce00061c55538c49973c561fb7/detection)  
 
 ### Symmi implants
 [b02a80d5dc03a88dc01c2b676bec866e](https://www.virustotal.com/#/file/1933ca999737790ba3c3cba7a158de9577f1823f0987ec5ee6ac0c037ef34b6c/detection)  
@@ -52,9 +55,9 @@
 [331454640fe386cd1a084709b4516ac4](https://www.virustotal.com/es/file/5223a45d8b08eb14e87a87edaa4b71593b4f9d2bdb6de1a5b6f3e77869eeca8a/analysis/)  
 [dbf9580947e52ab6421bd18eb0265167](https://www.virustotal.com/#/file/57145990fc1a301f95a9041ba2654d6634a155a70fbeb050fe76920602dc52ba/detection)  
 [ea553c3de3fffbfa047e8e0eb2557b8b](https://www.virustotal.com/#/file/e05de3e4a03369192856a167f2865eab3062a102b23bfdde5c0f622b39cd159a/detection)  
-
-
-
+[3eaf97b9c6b44f0447f2bd1c7acb8c96](https://www.virustotal.com/#/file/65de07fc6b821d9fd3497cfa64212df2d39935dd515a86eda80d08086b183a3f/detection)  
+[9a7d82ba55216defc2d4131b6c453f02](https://www.virustotal.com/#/file/8d10fd18de90829eccc33e79b92987bc33999403a1f7e2766903d21d38a247a9/detection)  
+[]
 
 ### Header Dropper
 [f41bbd08d89a7d4d396c287ed77685a0](https://www.virustotal.com/en/file/e1a3a012b332f0728e11f7bbb7429dece387a1244b3daaee6da6b4407c48caf7/analysis/)  
@@ -83,6 +86,9 @@ a659a765536d2099ecbde988d6763028ff92752e
 20954fe36388ae8b1174424c8e4996ea2689f747  
 e0d8829d2e76e9bb02e3b375981181ae02462c43  
 [f642d42ca0a1144e7c20fea537c8f4e8](https://www.virustotal.com/#/file/c4525aca78aa3a32e037c3a3a4f3a9158274d71979638c009917d4b050fc9fa8/detection)  
+[e49728cee1fdbbb957f657361fba3c9f](https://www.virustotal.com/#/file/b48b3d46ebfa6af8a25c007f77e6ed3c32fe4c6478311b8b0c7d6f4f8c82de76/detection)  
+[602d2901d55c2720f955503456ac2f68](https://www.virustotal.com/#/file/93680d34d798a22c618c96dec724517829ec3aad71215213a2dcb1eb190ff9fa/detection)  
+
 
 
 ### Zebrocy emails
