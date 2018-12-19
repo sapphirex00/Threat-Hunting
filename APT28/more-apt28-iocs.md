@@ -25,6 +25,9 @@
 ### Symmi implants
 [b02a80d5dc03a88dc01c2b676bec866e](https://www.virustotal.com/#/file/1933ca999737790ba3c3cba7a158de9577f1823f0987ec5ee6ac0c037ef34b6c/detection)  
 
+### Cannon implants
+[8da56a4b1a5ff8e4643421a5fefb5dc4](https://www.virustotal.com/#/file/aeaca9985b50ebe1db0fcda9b3fbf02275d17737b748963b63c14da3e988d801/detection)  
+
 
 ### Razi implants
 [12e6642cf6413bdf5388bee663080fa299591b2ba023d069286f3be9647547c8](https://www.virustotal.com/en/file/12e6642cf6413bdf5388bee663080fa299591b2ba023d069286f3be9647547c8/analysis/)  
@@ -48,6 +51,9 @@
 [c6e95fb89df8e84eb21b3ce6b8947ce2](https://www.virustotal.com/en/file/0320298eea0206b71d12f3a69730bbbec9768c5c323dfe131047f7ba4f4a8868/analysis/)    
 [331454640fe386cd1a084709b4516ac4](https://www.virustotal.com/es/file/5223a45d8b08eb14e87a87edaa4b71593b4f9d2bdb6de1a5b6f3e77869eeca8a/analysis/)  
 [dbf9580947e52ab6421bd18eb0265167](https://www.virustotal.com/#/file/57145990fc1a301f95a9041ba2654d6634a155a70fbeb050fe76920602dc52ba/detection)  
+[ea553c3de3fffbfa047e8e0eb2557b8b](https://www.virustotal.com/#/file/e05de3e4a03369192856a167f2865eab3062a102b23bfdde5c0f622b39cd159a/detection)  
+
+
 
 
 ### Header Dropper
@@ -76,6 +82,8 @@ a225d457c3396e647ffc710cd1edd4c74dc57152
 a659a765536d2099ecbde988d6763028ff92752e  
 20954fe36388ae8b1174424c8e4996ea2689f747  
 e0d8829d2e76e9bb02e3b375981181ae02462c43  
+[f642d42ca0a1144e7c20fea537c8f4e8](https://www.virustotal.com/#/file/c4525aca78aa3a32e037c3a3a4f3a9158274d71979638c009917d4b050fc9fa8/detection)  
+
 
 ### Zebrocy emails
 * carl.dolzhek17@post.cz  
