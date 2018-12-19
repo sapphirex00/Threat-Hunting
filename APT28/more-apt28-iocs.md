@@ -25,6 +25,10 @@
 [1aedaa67e7613594c135177f2973e2c7](https://www.virustotal.com/#/file/cde4d79cb8e876a9c93730e5811ab8acca695fe4980d49bc0967cecf62a25510/detection)  
 [ec889f025271994a143fecd95ba2a5b3](https://www.virustotal.com/#/file/47cc9708cff86676c45ddd3823eafc0fddedbdce00061c55538c49973c561fb7/detection)  
 
+### Energetic Bear implants
+[122543722bbbeb4cec9ee977157a59da](https://www.virustotal.com/#/file/501addba8dca294be2ed39bffbd8927652672306e0c9181a7f9b7e66715aa626/detection)  
+
+
 ### Symmi implants
 [b02a80d5dc03a88dc01c2b676bec866e](https://www.virustotal.com/#/file/1933ca999737790ba3c3cba7a158de9577f1823f0987ec5ee6ac0c037ef34b6c/detection)  
 
