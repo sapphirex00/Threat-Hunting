@@ -102,7 +102,27 @@ e0d8829d2e76e9bb02e3b375981181ae02462c43
 [6fc45c0194e10b3cd5117200185e3d74](https://www.virustotal.com/#/file/86bb3b00bcd4878b081e4e4f126bba321b81a17e544d54377a0f590f95209e46/detection)  
 [ccd2e208c308b56acb5fb86dd029c034](https://www.virustotal.com/#/file/c20e5d56b35992fe74e92aebb09c40a9ec4f3d9b3c2a01efbe761fa7921dd97f/detection)  
 [2f8a8c3d9cb4c8b4de7a6d45c799b2f1](https://www.virustotal.com/#/file/074a5836c5973bb53ab02c2bad66a4743b65c20fd6bf602cfaf09219f32d2426/detection)  
+[bb65419343895db8682524086b924d2b](https://www.virustotal.com/#/file/d77eb89501b0a60322bc69692007b9b7f1b5a85541a2aaf21caf7baf0fe0049e/detection)  
+[e49728cee1fdbbb957f657361fba3c9f](https://www.virustotal.com/#/file/b48b3d46ebfa6af8a25c007f77e6ed3c32fe4c6478311b8b0c7d6f4f8c82de76/detection)  
+[672f85ee2031c1ff6295b17058e30e07](https://www.virustotal.com/#/file/15a866c3c18046022a810aa97eaf2e20f942b8293b9cb6b4d5fb7746242c25b7/detection)  
+[3773150aeee03783a6da0820a8feb752](https://www.virustotal.com/#/file/50d610226aa646dd643fab350b48219626918305aaa86f9dbd356c78a19204cc/detection)  
+[400a162a9e5946be10b9fd7155a9ee48](https://www.virustotal.com/#/file/de31a8a9110b32a82843e9216a3378cc1c5ea972a6bb2261ec111efb82f31e71/detection)  
+[3be1ef5134acf27938d2781359588290](https://www.virustotal.com/#/file/daf990f0b6564c3ac87fa87e325e6ffc907ed43ae65a3f088a42b5b120612593/details)  
+[58721c27c882e8c6a51f258f2ed5e89b](https://www.virustotal.com/#/file/308b41db9e3b332bb5b3e5ec633907761eac5082029b8b32e6b063b8c76b7365/detection)  
+[5b915f7ea4d65c827952354b200c9bc6](https://www.virustotal.com/#/file/1ff4e56419ad1814726ca143fc256cca4c8588605536c48dd79cfed12cb0763a/detection)  
+[2318c0713df3404ccb7be4d1923621a3](https://www.virustotal.com/#/file/346e5dc097b8653842b5b4acfad21e223b7fca976fb82b8c10d9fa4f3747dfa0/detection)  
+[4b4a964d938d300e8456fbc9b82e20df](https://www.virustotal.com/#/file/07646dc0a8c8946bb78be9b96147d4327705c1a3c3bd3fbcedab32c43d914305/detection)  
+c817aab6e8dcaeaeae817a85ba209c0ca690be58b91e6cff0e3f0660336f9506   
 
+### Zebrocy Go Backdoors
+[333d2b9e99b36fb42f9e79a2833fad9c](https://www.virustotal.com/#/file/fcf03bf5ef4babce577dd13483391344e957fd2c855624c9f0573880b8cba62e/detection)   
+[602d2901d55c2720f955503456ac2f68](https://www.virustotal.com/#/file/93680d34d798a22c618c96dec724517829ec3aad71215213a2dcb1eb190ff9fa/details)  
+
+### Zebrocy Go C2 
+* hxxp://89.37.226[.]148/technet-support/library/online-service-description.php
+* 89[.]37[.]226[.]148
+* hxxp://89[.]37[.]226[.]123/advance/portable_version/service.php
+* 89[.]37[.]226[.]123 
 
 ### Zebrocy emails
 * carl.dolzhek17@post.cz  
@@ -131,4 +151,4 @@ e0d8829d2e76e9bb02e3b375981181ae02462c43
 * [Source](https://pastebin.com/sXcERsQd)
 
 
-#### source: research, whitepapers + thor apt scanner + @DrunkBinary + [NCSC_APT28](https://www.ncsc.gov.uk/content/files/protected_files/article_files/NCSC_APT28_Advisory.pdf) + [Sednit: What's going on with zebrocy](https://www.welivesecurity.com/2018/11/20/sednit-whats-going-zebrocy/)
+#### source: research, whitepapers + thor apt scanner + @DrunkBinary + [NCSC_APT28](https://www.ncsc.gov.uk/content/files/protected_files/article_files/NCSC_APT28_Advisory.pdf) + [Sednit: What's going on with zebrocy](https://www.welivesecurity.com/2018/11/20/sednit-whats-going-zebrocy/) + [Sofact creates new go variants of zebrocy](https://unit42.paloaltonetworks.com/sofacy-creates-new-go-variant-of-zebrocy-tool/)
