@@ -15,8 +15,22 @@
 [471a2e7341f2614b715dc89e803ffcac](https://www.virustotal.com/es/file/209c52bc39e8fa3df3d4d12a4d1913f3751582b34898adf966dd227cd5a0c99a/analysis/)  
 [f1af6bb36cdf3cff768faee7919f0733](https://www.virustotal.com/es/file/453168b12bdc881bd6763fbc456620fd42efe6a718c6aecb2fa4982a44207999/analysis/)  
 
-## Network IOC
+## Other implants
+[02ae075da4fb2a6d38ce06f8f40e397e](https://www.virustotal.com/#/file/e5c766ad580b5bc5f74acc8d2f5dd028c11495d2ce503de7c7a294f94583849d/detection)  
+[f775cc387a55831386e44dd00ef9723e](https://www.virustotal.com/#/file/9c37215fb07f2f6b42b054e91b4be5cfa3b3921c886049995ba10299f1eebca4/detection)  
+D7C172D4A88573B7E373F2B666C011AC  
+72A5AD375401F33A5079CAEE18884C9D  
+79D06DD20768FD8CD4A043833C1F2D4B  
+EC505565E4CB5A22BFD3F63E4AD83FF3   
+2559738D1BD4A999126F900C7357B759  
+2DFAEDD9265642E430E6635F210FABB4  
+B10F93CDBCDF43D4C5C5770872E239F4  
 
+
+## Network IOC
+* 154.16.99.85 
+* 154.16.47.41 
+* 154.16.138.89
 * 103.53.197.202
 * 104.237.218.70
 * 104.237.218.72
@@ -26,10 +40,13 @@
 * 23.227.196.210
 * 24.datatimes.org
 * 80.255.3.87
+* Andreagahuvrauvin.com
 * blog.docksugs.org
 * blog.panggin.org
+* Byronorenstein.com
 * contay.deaftone.com
 * check.paidprefund.org
+* christienoll.xyz 
 * datatimes.org
 * docksugs.org
 * economy.bloghop.org
@@ -41,6 +58,7 @@
 * high.expbas.net
 * high.vphelp.net
 * icon.torrentart.com
+* illagedrivestralia.xyz 
 * images.chinabytes.info
 * imaps.qki6.com
 * img.fanspeed.net
@@ -59,6 +77,7 @@
 * seri.volveri.net
 * ssl.zin0.com
 * static.jg7.org
+* Straliaenollma.xyz
 * syn.timeizu.net
 * teriava.com
 * timeizu.net
@@ -72,4 +91,4 @@
 * yii.yiihao126.net
 * zone.apize.net
 
-[Source](https://www.fireeye.com/blog/threat-research/2017/05/cyber-espionage-apt32.html)
+Sources: [FireEye's blog](https://www.fireeye.com/blog/threat-research/2017/05/cyber-espionage-apt32.html) + [Tencent Report on APT32](https://s.tencent.com/research/report/471.html)
