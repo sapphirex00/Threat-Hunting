@@ -113,5 +113,7 @@ e0d8829d2e76e9bb02e3b375981181ae02462c43
 [2318c0713df3404ccb7be4d1923621a3](https://www.virustotal.com/#/file/346e5dc097b8653842b5b4acfad21e223b7fca976fb82b8c10d9fa4f3747dfa0/detection)  
 [4b4a964d938d300e8456fbc9b82e20df](https://www.virustotal.com/#/file/07646dc0a8c8946bb78be9b96147d4327705c1a3c3bd3fbcedab32c43d914305/detection)  
 c817aab6e8dcaeaeae817a85ba209c0ca690be58b91e6cff0e3f0660336f9506   
+[d6751b148461e0f863548be84020b879](https://www.virustotal.com/gui/file/1aa4ad5a3f8929d61f559df656c84326d1fe0ca82a4be299fa758a26e14b1b27/detection)  
+063fc3e58a0effd7cac127ec9a7046b4  
 
 #### source: research, whitepapers + thor apt scanner + @DrunkBinary + [NCSC_APT28](https://www.ncsc.gov.uk/content/files/protected_files/article_files/NCSC_APT28_Advisory.pdf) + [Sednit: What's going on with zebrocy](https://www.welivesecurity.com/2018/11/20/sednit-whats-going-zebrocy/) + [Sofact creates new go variants of zebrocy](https://unit42.paloaltonetworks.com/sofacy-creates-new-go-variant-of-zebrocy-tool/)
