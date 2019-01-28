@@ -12,7 +12,7 @@
 [163451f0f8ac882d7218422e594d7c38](https://www.virustotal.com/#/file/9c661cf8fcb8be0ee7ce7833770ef3a758cf0fb5d931f49670b0a9fe56bf687c/detection)  
 [e88029a87ca6e3f7b271e5d35471b240](https://www.virustotal.com/#/file/cf0c37d865ed0aea7d7cc8678990068f7b0e2c2b5684d386f6a6460775763159/detection)  
 [988df2967a7239a4b916cc9fcedaff68](https://www.virustotal.com/#/file/44cc7f6c2b664f15b499c7d07c78c110861d2cc82787ddaad28a5af8efc3daac/detection)  
-
+988df2967a7239a4b916cc9fcedaff6  
 
 ## ComRAT
 [e160c93ef55ee29a4b1a4ae45cc0764f](https://www.virustotal.com/#/file/14f04ff36d4c571d2cc7e2fc0b31f9666d687c61d05d8646cf5e56b4240f5592/detection)  
