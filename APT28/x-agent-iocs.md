@@ -28,6 +28,7 @@
 [046a8adc2ef0f68107e96babc59f41b6f0a57803](https://www.virustotal.com/es/file/001d65185910ae8cd9e7e2472745e593be62b98eae3f5f2266a29c37e56daa1d/analysis/)  
 [e8e1fcf757fe06be13bead43eaa1338c](https://www.virustotal.com/en/file/dea3a99388e9c962de9ea1008ff35bc2dc66f67a911451e7b501183e360bb95e/analysis/)  
 [695d8a38438cf129438d5c0b32fe9be5](https://www.virustotal.com/en/file/a5b68575ac4fbe83c23ff991ad0d5389f51a2aef71ee3c2277985c68361cf1cc/analysis/)  
+[ed21c607978a72d6d3c7a4e7cd3a75a8](https://www.virustotal.com/#/file/e2bea753318d715dfc2f186c49ae3e9c404d0f5df52e959ea546f78a3624bc3b/detection)  
    
 
 
