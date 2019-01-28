@@ -24,8 +24,8 @@
 [12b1d6a42e246a37a94efc19ac8c9b3c](https://www.virustotal.com/#/file/f772b74870ca9d245d8497851eb0b858a24fbdf8e6803bdb99264a00ed5928a8/detection)  
 [695d8a38438cf129438d5c0b32fe9be5](https://www.virustotal.com/#/file/a5b68575ac4fbe83c23ff991ad0d5389f51a2aef71ee3c2277985c68361cf1cc/detection)  
 [e8e1fcf757fe06be13bead43eaa1338c](https://www.virustotal.com/#/file/dea3a99388e9c962de9ea1008ff35bc2dc66f67a911451e7b501183e360bb95e/detection)  
-
-
+[640f6f5649af192e61c3f535445b5102](https://www.virustotal.com/#/file/854a522a113b6413ff4db5f0ba0aec98cba3c5ef386311660f6dabab26f6aa14/detection)  
+[16b6d63390340941ec0fe60b0177384f](https://www.virustotal.com/#/file/be2e58669dbdec916f7aaaf4d7c55d866c4f38ac290812b10d680d943bb5b757/detection)  
 
 ## X-Tunnel Network IOCs
 * 131.72.136.165
