@@ -90,3 +90,5 @@ f9f0973dc74716b75291f5a9b2d59b08500882563011d1def2b8d0b1b9bbb8ae
 * syn[.]browserstime[.]com 
 * check[.]webhop[.]org 
 * ristineho[.]com
+
+[Sources](https://unit42.paloaltonetworks.com/tracking-oceanlotus-new-downloader-kerrdown/)
