@@ -6,6 +6,7 @@
 [19db0b290b19b66041eec48a51804124](https://www.virustotal.com/#/file/2ad4fbe8ca3cd82f8e37ff7dbcf07c925321defc52e80117f49613b1b8209479/detection)  
 [fda72a3410f1545aac345fa3782047b6](https://www.virustotal.com/#/file/1cf1b34d77b877505a61b598aa2a93bd8a1bac70bea7492154e310ade1c7076d/detection)  
 [0c8be90f4c6f3299a727b1db7406b87e](https://www.virustotal.com/#/file/26010b29d08075c94943a21cd73189524743be739e4fa5019ace5e12d6219d5c/detection)  
+[968872c5edc0c77a5736b8ded8fd675d](https://www.virustotal.com/#/file/a8cd3dc21b09043406d8cfbb3428b3f1719afd38c9c6018634836f6895dd2c16/detection)  
 
 ## Kazuar implant
 [163451f0f8ac882d7218422e594d7c38](https://www.virustotal.com/#/file/9c661cf8fcb8be0ee7ce7833770ef3a758cf0fb5d931f49670b0a9fe56bf687c/detection)  
