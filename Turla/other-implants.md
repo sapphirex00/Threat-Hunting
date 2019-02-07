@@ -19,3 +19,4 @@
 ## ComRAT
 [e160c93ef55ee29a4b1a4ae45cc0764f](https://www.virustotal.com/#/file/14f04ff36d4c571d2cc7e2fc0b31f9666d687c61d05d8646cf5e56b4240f5592/detection)  
 [a4aa2f5bf8e2f95ce05bd972b596e11b](https://www.virustotal.com/#/file/ec273359f52fb82196b9b04f6496b245335595b21f6001940a2530efcde5bec4/detection)  
+[bb94dc8f9b9676f1444012b869b1d6f7](https://www.virustotal.com/#/file/91b13de82304d4bbc256bc9925c159b7596560cfe16284b6034d2d7900183aa2/detection)  
